@@ -13,7 +13,10 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, Cropsmaking.MODID);
 
     public static final RegistryObject<Item> BANANA = ITEMS.register("banana",
-            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_FOOD)));
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> banasword = ITEMS.register("banasword",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_COMBAT).durability(100)));
     public static void register(IEventBus eb){
         ITEMS.register(eb);
     }
