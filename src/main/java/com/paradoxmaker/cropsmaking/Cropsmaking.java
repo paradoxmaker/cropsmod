@@ -1,6 +1,7 @@
 package com.paradoxmaker.cropsmaking;
 
 import com.mojang.logging.LogUtils;
+import com.paradoxmaker.cropsmaking.block.ModBlocks;
 import com.paradoxmaker.cropsmaking.item.ModItems;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -23,6 +24,7 @@ public class Cropsmaking
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
 

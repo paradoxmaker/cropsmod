@@ -8,5 +8,7 @@
   "item.cropsmaking.lettuce": "Lettuce",
   "item.cropsmaking.shallot": "Shallot",
   "item.cropsmaking.tomato": "Tomato",
-  "item.cropsmaking.banasword" : "BanaSpear"
+  "item.cropsmaking.banasword" : "BanaSpear",
+
+  "block.cropsmaking.processor_black" : "Processor"
 }
