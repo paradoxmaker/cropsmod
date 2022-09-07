@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cropsmaking:tuna"
+    }
+  ],
+  "result": {
+    "count": 12,
+    "item": "cropsmaking:raw_tunas"
+  }
+}

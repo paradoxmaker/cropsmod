@@ -1,7 +1,7 @@
 {
   "item.cropsmaking.banana": "Banana",
   "item.cropsmaking.cabbage": "Cabbage",
-  "item.cropsmaking.casava": "Casava",
+  "item.cropsmaking.casava": "Cassava",
   "item.cropsmaking.chilli": "Chilli",
   "item.cropsmaking.cucumber": "Cucumber",
   "item.cropsmaking.garlic": "Garlic",
@@ -9,6 +9,14 @@
   "item.cropsmaking.shallot": "Shallot",
   "item.cropsmaking.tomato": "Tomato",
   "item.cropsmaking.banasword" : "BanaSpear",
+
+  "item.cropsmaking.tuna": "Tuna",
+  "item.cropsmaking.raw_tunas": "Raw Sliced Tuna",
+  "item.cropsmaking.cooked_tuna": "Cooked Tuna",
+  "item.cropsmaking.raw_squid": "Squid",
+  "item.cropsmaking.cooked_squid" : "Grilled Squid",
+  "item.cropsmaking.shrimp" : "Shrimp",
+  "item.cropsmaking.cooked_shrimp": "Cooked Shrimp",
 
   "block.cropsmaking.processor_black" : "Processor"
 }
