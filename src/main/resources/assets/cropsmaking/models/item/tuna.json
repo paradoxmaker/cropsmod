@@ -1,44 +1,6 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
 		"layer0": "cropsmaking:item/tuna"
-	},
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [70, 0, -90],
-			"translation": [8.75, -0.25, 0.75],
-			"scale": [1.32, 1, 1]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [70, 0, 90],
-			"translation": [-7.25, -0.25, 0.75],
-			"scale": [1.32, 1, 1]
-		},
-		"firstperson_righthand": {
-			"rotation": [-30, 0, 0],
-			"translation": [0.25, 9.25, 0]
-		},
-		"firstperson_lefthand": {
-			"rotation": [-30, 164, 0],
-			"translation": [0.25, 9.25, 0]
-		},
-		"ground": {
-			"rotation": [0, 0, 37],
-			"translation": [-5.5, 9.5, 0],
-			"scale": [1.32, 1, 1]
-		},
-		"gui": {
-			"rotation": [0, 0, 37],
-			"translation": [-6.5, 4.5, 0]
-		},
-		"head": {
-			"translation": [-1.5, 5.5, 0]
-		},
-		"fixed": {
-			"rotation": [0, 180, 37],
-			"translation": [13.25, 9.25, 0],
-			"scale": [2.32, 2, 1]
-		}
 	}
 }
